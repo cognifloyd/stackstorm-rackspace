@@ -1,6 +1,6 @@
 ---
 name: find_dns_zone_id
-runner_type: run-python
+runner_type: python-script
 description: Find a DNS zone id based on name
 enabled: true
 entry_point: find_dns_zone_id.py

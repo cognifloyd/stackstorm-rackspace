@@ -1,6 +1,6 @@
 ---
 name: delete_vm
-runner_type: run-python
+runner_type: python-script
 description: Delete a vm.
 enabled: true
 entry_point: delete_vm.py

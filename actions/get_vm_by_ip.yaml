@@ -1,6 +1,6 @@
 ---
 name: get_vm_by_ip
-runner_type: run-python
+runner_type: python-script
 description: Retrieve information for a VM which matches the provided public IP.
 enabled: true
 entry_point: get_vm_by_ip.py

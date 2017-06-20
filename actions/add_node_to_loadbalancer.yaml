@@ -1,6 +1,6 @@
 ---
 name: add_node_to_loadbalancer
-runner_type: run-python
+runner_type: python-script
 description: Add a new node to load balancer
 enabled: true
 entry_point: add_node_to_loadbalancer.py

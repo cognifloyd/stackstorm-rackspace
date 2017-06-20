@@ -1,6 +1,6 @@
 ---
 name: create_dns_zone
-runner_type: run-python
+runner_type: python-script
 description: Create a new DNS zone.
 enabled: true
 entry_point: create_dns_zone.py

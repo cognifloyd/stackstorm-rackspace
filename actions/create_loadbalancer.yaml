@@ -1,6 +1,6 @@
 ---
 name: create_loadbalancer
-runner_type: run-python
+runner_type: python-script
 description: Create a new loadbalancer.
 enabled: true
 entry_point: create_loadbalancer.py

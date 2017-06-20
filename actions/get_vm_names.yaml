@@ -1,6 +1,6 @@
 ---
 name: get_vm_names
-runner_type: run-python
+runner_type: python-script
 description: List all the available vms by names. Optionally filter by metadata and count
 enabled: true
 entry_point: get_vm_names.py

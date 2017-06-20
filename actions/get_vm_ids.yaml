@@ -1,6 +1,6 @@
 ---
 name: get_vm_ids
-runner_type: run-python
+runner_type: python-script
 description: Retrieve IDs for all the available VMs. Optionally filter by metadata and count.
 enabled: true
 entry_point: get_vm_ids.py
