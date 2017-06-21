@@ -1,6 +1,6 @@
 ---
 name: delete_node_from_loadbalancer
-runner_type: run-python
+runner_type: python-script
 description: Delete a node from a load balancer
 enabled: true
 entry_point: delete_node_from_loadbalancer.py

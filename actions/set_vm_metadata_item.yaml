@@ -1,6 +1,6 @@
 ---
 name: set_vm_metadata_item
-runner_type: run-python
+runner_type: python-script
 description: Set a value of a metadata item for a provided VM.
 enabled: true
 entry_point: set_vm_metadata_item.py

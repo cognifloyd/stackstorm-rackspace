@@ -1,6 +1,6 @@
 ---
   name: find_dns_record_id
-  runner_type: run-python
+  runner_type: python-script
   description: Find a DNS record ID based on name
   enabled: true
   entry_point: find_dns_record_id.py
